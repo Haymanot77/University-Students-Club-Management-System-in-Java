@@ -43,8 +43,8 @@ Some potential enhancements:
 
 Feel free to reach out with questions or suggestions:
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/haymanot-gidena)
-- Email: haymigidena1@gmail.com
+- LinkedIn: [check out my Linkedin](https://linkedin.com/in/haymanot-gidena)
+- Email: [Contact me via my email] (haymigidena1@gmail.com)
 
 ---
 
