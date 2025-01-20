@@ -44,7 +44,7 @@ Some potential enhancements:
 Feel free to reach out with questions or suggestions:
 
 - LinkedIn: [check out my Linkedin](https://linkedin.com/in/haymanot-gidena)
-- Email: [Contact me via my email] (haymigidena1@gmail.com)
+- Email: (haymigidena1@gmail.com)
 
 ---
 
