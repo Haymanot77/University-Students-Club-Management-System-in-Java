@@ -14,15 +14,6 @@ This project is a desktop application built using **Java** and **MySQL** that al
   - Maven for dependency management 
 
 
-## Repository Structure
-
-```
-University-Students-Club-Management-System-in-Java/
-├── src/                # Java source code files
-├── README.md           # Project documentation 
-├── lib/                # External libraries 
-
-```
 
 ## Learning Objectives
 
