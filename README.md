@@ -19,9 +19,9 @@ This project is a desktop application built using **Java** and **MySQL** that al
 ```
 University-Students-Club-Management-System-in-Java/
 ├── src/                # Java source code files
-├── README.md           # Project documentation (you're here!)
-├── lib/                # External libraries (if any)
-└── LICENSE             # Project license file
+├── README.md           # Project documentation 
+├── lib/                # External libraries 
+
 ```
 
 ## Learning Objectives
@@ -44,7 +44,6 @@ Some potential enhancements:
 Feel free to reach out with questions or suggestions:
 
 - LinkedIn: [check out my Linkedin](https://linkedin.com/in/haymanot-gidena)
-- Email: (haymigidena1@gmail.com)
 
 ---
 
